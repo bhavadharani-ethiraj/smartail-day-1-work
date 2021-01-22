@@ -1,0 +1,239 @@
+
+  body {
+    position: relative; 
+  }
+  #section1 {padding-top:50px;height:500px;color: #fff; background-image:url("https://cms.hostelworld.com/hwblog/wp-content/uploads/sites/2/2018/09/hostel-room-types-5.jpg") ;
+			background-position:center; 
+			background-size:cover; 
+			font-family: sans-serif;}
+#section1 h1{
+	background-color:rgba(102, 97, 101,0.6);
+}
+#section2 h1{
+	background-color:rgba(102, 97, 101,0.6);
+	text-align: center;
+}
+  #section2 {padding-top:50px;position: relative;height: relative; color: #fff; background-color: #673ab7;}
+  #section3 {padding-top:50px;position: relative;height: relative; color: #fff;background-image:url("https://cms.hostelworld.com/hwblog/wp-content/uploads/sites/2/2018/09/hostel-room-types-5.jpg") ;
+			background-position:center; 
+			background-size:cover; 
+			font-family: sans-serif; }
+.txt{
+	margin-left: 20px;
+	margin-top: 34px;
+
+	padding: 25px 0 12px 23px;
+	border: 20px solid rgba(102, 97, 101,0.3);
+	background-color: rgba(102, 97, 101,0.6);
+}
+
+		table,tr,th,td{
+			border: 20px solid #a3609e;
+			border-collapse: collapse;
+			width: 1000px;
+			margin-left: 82px;
+		}
+		th{
+			background-color:rgba(89, 65, 87,0.5);
+			color: white;
+		}
+		td{
+			background-color:rgba(102, 97, 101,0.6);
+			padding-left: 25px;
+			position: center;
+		}
+		*{
+			font-size: 25px;
+		}
+*{
+			margin: 0;
+			padding: 0;
+		}
+		.form{
+			background-image:url("https://cms.hostelworld.com/hwblog/wp-content/uploads/sites/2/2018/09/hostel-room-types-5.jpg") ;
+			background-position:center; 
+			background-size:cover; 
+			font-family: sans-serif;
+		}
+		.regform{
+			width: 800px;
+			background-color: rgb(0,0,0,0.6);
+			margin: auto;
+			color: #ffffff;
+			padding: 10px 0px 10px 0px;
+			text-align: center;
+			border-radius: 15px 15px 0px 0px;
+		}
+		.main{
+			background-color: rgb(0,0,0,0.5);
+			width: 800px;
+			margin: auto;
+		}
+		form{
+
+			padding: 10px;
+		}
+		#name{
+			width: 100%;
+			height: 100px;
+		}
+		.name{
+			margin-left: 25px;
+			margin-top: 30px;
+			width: 250px;
+			color: white;
+			font-size: 21px;
+			font-weight: 700;
+
+		}
+		.firstname{
+			position: relative;
+			left: 200px;
+			top: -37px;
+			line-height: 40px;
+			border-radius: 6px;
+			padding: 0 22px;
+			font-size: 16px;
+		}
+		.lastname{
+			position: relative;
+			left: 247px;
+			top: -37px;
+			line-height: 40px;
+			border-radius: 6px;
+			padding: 0 22px;
+			font-size: 16px;
+			color: #555;
+		}
+		.firstlable{
+			position: relative;
+			left: -24px;
+			top: -2px;
+			font-size: 14px;
+			text-transform: capitalize;
+			color: #e5e5e5;
+
+		}
+		.lastlable{
+			position: relative;
+			left: 24px;
+			top: -2px;
+			font-size: 14px;
+			text-transform: capitalize;
+			color: #e5e5e5;
+			
+		}
+		.company {
+			position: relative;
+			left: 200px;
+			top: -37px;
+			line-height: 40px;
+			width: 480px;
+			border-radius: 6px;
+			padding: 0 22px;
+			font-size: 16px;
+			color: #555;
+
+		} 
+		.email {
+			position: relative;
+			left: 200px;
+			top: -37px;
+			line-height: 40px;
+			width: 480px;
+			border-radius: 6px;
+			padding: 0 22px;
+			font-size: 16px;
+			color: #555;
+			
+		} 
+		.code {
+			position: relative;
+			left: 200px;
+			top: -37px;
+			line-height: 40px;
+			width: 95px;
+			border-radius: 6px;
+			padding: 0 22px;
+			font-size: 16px;
+			color: #555;
+			
+		} 
+		.number {
+			position: relative;
+			left: 200px;
+			top: -37px;
+			line-height: 40px;
+			width: 255px;
+			border-radius: 6px;
+			padding: 0 22px;
+			font-size: 16px;
+			color: #555;
+			
+		} 
+		.area-code{
+			position: relative;
+			color: #e5e5e5;
+			text-transform: capitalize;
+			font-size: 16px;
+			left: 52px;
+			top: -2px;
+		}
+		.phone-number{
+			position: relative;
+			color: #e5e5e5;
+			text-transform: capitalize;
+			font-size: 16px;
+			left: -104px;
+			top: -2px;
+		}
+		.option{
+			position: relative;
+			left: 200px;
+			top: -37px;
+			line-height: 40px;
+			width: 532px;
+			height: 40px;
+			border-radius: 6px;
+			padding: 0 22px;
+			font-size: 16px;
+			color: #555;
+			outline: none;
+			overflow: hidden;
+
+		}
+		.option option{
+			font-size: 20px;
+		}
+
+		.radio{
+			display: inline-block;
+			padding-right: 70px;
+			font-size: 25px;
+			margin-left: 25px;
+			margin-right: 15px;
+			color:white;
+		}
+		.radio input{
+			width: 20px;
+			height: 20px;
+			border-radius: 50%;
+			cursor: pointer;
+			outline: none;
+		}
+		button{
+			background-color: #3baf;
+			display: block;
+			margin: 20px 0 0 20px;
+			text-align: center;
+			border-radius: 12px;
+			border: 2px solid #366473;
+			padding: 14px 110px;
+			color: white;
+			cursor: pointer;
+			transition: 0.25px;
+
+		}
+		button:hover{
+			background-color: #5390f5;
+		}
